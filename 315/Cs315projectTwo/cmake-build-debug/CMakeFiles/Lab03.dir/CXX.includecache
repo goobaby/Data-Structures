@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/student/Downloads/reclistsStudentFiles/main.cpp
+iostream
+-
+reclists.hpp
+/Users/student/Downloads/reclistsStudentFiles/reclists.hpp
+solutions.hpp
+/Users/student/Downloads/reclistsStudentFiles/solutions.hpp
+
+/Users/student/Downloads/reclistsStudentFiles/reclists.hpp
+
+/Users/student/Downloads/reclistsStudentFiles/solutions.cpp
+reclists.hpp
+/Users/student/Downloads/reclistsStudentFiles/reclists.hpp
+solutions.hpp
+/Users/student/Downloads/reclistsStudentFiles/solutions.hpp
+
+/Users/student/Downloads/reclistsStudentFiles/solutions.hpp
+iostream
+-
+reclists.hpp
+/Users/student/Downloads/reclistsStudentFiles/reclists.hpp
+

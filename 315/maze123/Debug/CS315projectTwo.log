@@ -1,0 +1,5 @@
+﻿  CS315projectTwo.cpp
+  mazeH.cpp
+F:\Projects\CS315projectTwo\mazeH.cpp(41,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS315projectTwo.vcxproj -> F:\Projects\CS315projectTwo\Debug\CS315projectTwo.exe

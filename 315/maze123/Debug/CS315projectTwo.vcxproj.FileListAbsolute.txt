@@ -1,0 +1,2 @@
+F:\Projects\CS315projectTwo\Debug\CS315projectTwo.exe
+F:\Projects\CS315projectTwo\Debug\CS315projectTwo.pdb

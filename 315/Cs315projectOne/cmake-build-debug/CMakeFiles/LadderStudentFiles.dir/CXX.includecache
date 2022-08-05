@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kooshesh/Courses/2020spring/cs315/labs/Ladder/LadderStudentFiles/Dictionary.cpp
+iostream
+-
+fstream
+-
+Dictionary.hpp
+/Users/kooshesh/Courses/2020spring/cs315/labs/Ladder/LadderStudentFiles/Dictionary.hpp
+
+/Users/kooshesh/Courses/2020spring/cs315/labs/Ladder/LadderStudentFiles/Dictionary.hpp
+iostream
+-
+fstream
+-
+vector
+-
+tuple
+-
+stack
+-
+
+/Users/kooshesh/Courses/2020spring/cs315/labs/Ladder/LadderStudentFiles/main.cpp
+iostream
+-
+Dictionary.hpp
+/Users/kooshesh/Courses/2020spring/cs315/labs/Ladder/LadderStudentFiles/Dictionary.hpp
+

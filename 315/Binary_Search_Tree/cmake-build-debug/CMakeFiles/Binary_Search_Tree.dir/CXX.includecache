@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/student/CLionProjects/Binary_Search_Tree/BinSearchTree.hpp
+stdlib.h
+-
+TreeNode.hpp
+/Users/student/CLionProjects/Binary_Search_Tree/TreeNode.hpp
+
+/Users/student/CLionProjects/Binary_Search_Tree/TreeNode.hpp
+
+/Users/student/CLionProjects/Binary_Search_Tree/main.cpp
+iostream
+-
+TreeNode.hpp
+/Users/student/CLionProjects/Binary_Search_Tree/TreeNode.hpp
+BinSearchTree.hpp
+/Users/student/CLionProjects/Binary_Search_Tree/BinSearchTree.hpp
+
